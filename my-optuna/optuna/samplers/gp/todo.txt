@@ -1,0 +1,3 @@
+Write AcquisitioncontinuousTimeVarying!!!
+Consider 相対的な時間の大きさ
+is_continuous_varyingの時のAcquisitionOptimizerの挙動が心配。modelの次元とspaceの次元が一致していないので、optimizerがmodelを見る場合は問題が起こるかも

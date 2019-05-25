@@ -1,0 +1,1 @@
+from optuna.samplers.gp.sampler import GPSampler  # NOQA
